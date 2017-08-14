@@ -8,7 +8,7 @@
 <?php
 $x = rand(0,100);
 echo "Число ".$x;
-echo "<br/>";
+echo "<br>";
 
 $var1 = 1;
 $var2 = 1;
