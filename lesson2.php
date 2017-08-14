@@ -6,7 +6,7 @@
 </head>
 <body>
 <?php
-$x = $x = rand(0,100);
+$x = rand(0,100);
 echo "Число ".$x;
 echo "<br/>";
 
